@@ -21,7 +21,7 @@ schedule are tentative and subject to change.
 
 | Week | Date          | Topics | Special Notes | Activity |
 | ---- | ------------- | ------ | --------- | ------- |
-|  01  | 08/29 - 09/02 | [introduction, variables, operators, expressions](https://www.prairielearn.org/pl/course_instance/129003/assessment/2316030) | [Fill out course survey](https://forms.gle/vPzWBzQeoZ9FuxDNA) | [week 1 activity](https://www.prairielearn.org/pl/course_instance/129545/assessment/2322057) <br> week 1 lab |
+|  01  | 08/29 - 09/02 | [introduction, variables, operators, expressions](https://www.prairielearn.org/pl/course_instance/129003/assessment/2316030) | [Fill out course survey](https://forms.gle/vPzWBzQeoZ9FuxDNA) | [week 1 activity](https://www.prairielearn.org/pl/course_instance/129545/assessment/2322057) <br> [week 1 lab](https://www.prairielearn.org/pl/course_instance/129545/assessment/2322060) |
 |  02  | 09/05 - 09/09 | no class 09/05 (Labor day) <br> [notebooks and comments, functions](https://www.prairielearn.org/pl/course_instance/129545/assessment/2322064) |  | [week 2 activity](https://www.prairielearn.org/pl/course_instance/129545/assessment/2322058) <br> [week 2 lab](https://www.prairielearn.org/pl/course_instance/129545/assessment/2322061) |
 |  03  | 09/12 - 09/16 | [conditionals, math, built-in functions](https://www.prairielearn.org/pl/course_instance/129545/assessment/2322065) | | [week 3 activity](https://www.prairielearn.org/pl/course_instance/129545/assessment/2322059) <br> week 3 lab |
 |  04  | 09/19 - 09/23 | iteration | project ideas due (tentative)| week4 activity <br> week 4 lab |
