@@ -5,7 +5,7 @@ Instructor: Erin Carrier
 
 Office Hours:
   * Virtual:  Wednesdays 2:00pm - 3:00pm (zoom link will be posted to piazza)
-  * In-person:  
+  * In-person: C-2-211 MAK 
     * Mondays 1:00pm - 2:00pm
     * Fridays 9:00am - 9:55am
 
