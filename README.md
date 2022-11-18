@@ -32,7 +32,7 @@ schedule are tentative and subject to change.
 |  09  | 10/24 - 10/28 | no class 10/24 (fall break), [tuples](https://www.prairielearn.org/pl/course_instance/129545/assessment/2323165) |  | [week 9 activity](https://www.prairielearn.org/pl/course_instance/129545/assessment/2323106) <br> [week 9 lab](https://www.prairielearn.org/pl/course_instance/129545/assessment/2323231) |
 |  10  | 10/31 - 11/04 | [dictionaries](https://www.prairielearn.org/pl/course_instance/129545/assessment/2323171) | [project check-in due Friday, 11/04 @ 11:59pm](https://www.prairielearn.org/pl/course_instance/129545/assessment/2323255) | [week10 activity](https://www.prairielearn.org/pl/course_instance/129545/assessment/2323228) <br> [week10 lab](https://www.prairielearn.org/pl/course_instance/129545/assessment/2323230) |
 |  11  | 11/07 - 11/11 | [visualization (matplotlib)](https://www.prairielearn.org/pl/course_instance/129545/assessment/2323303) | Exam 2 (Monday and Wednesday) | week11 lab |
-|  12  | 11/14 - 11/18 | [numpy](https://www.prairielearn.org/pl/course_instance/129545/assessment/2323391) |  | week12 activity <br> week12 lab |
+|  12  | 11/14 - 11/18 | [numpy](https://www.prairielearn.org/pl/course_instance/129545/assessment/2323391) |  | [week12 activity](https://www.prairielearn.org/pl/course_instance/129545/assessment/2323417) <br> [week12 lab](https://www.prairielearn.org/pl/course_instance/129545/assessment/2323486) |
 |  13  | 11/21 - 11/25 | error in computational science <br> Thanksgiving break (no class 11/23 and 11/25) | | |
 |  04  | 11/28 - 12/02 | csv module, numpy wrap-up | | |
 |  15  | 12/05 - 12/09 | scipy, applications | | |
