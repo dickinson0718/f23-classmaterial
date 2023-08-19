@@ -1,4 +1,4 @@
-# Welcome to CIS161 - Computational Science, Fall 2022
+# Welcome to CIS161 - Computational Science, Fall 2023
 
 ## Helpful Links
 
@@ -15,10 +15,7 @@ to get help -- please join if you have questions.
 
 ### Course Schedule
 
-This table outlines the entire course schedule. Lecture notes are
-posted for each topic. Lecture videos, although not direct recordings
-of this semester's live lectures, cover the same topics and are beneficial
-if you are sick or do not feel comfortable attending in person.
+This table outlines the entire course schedule. Lecture videos cover the topics and are beneficial
 Minilab links will be added prior to the start of class. The dates in this
 schedule are tentative and subject to change.
 
