@@ -121,6 +121,10 @@ be capped at 1% of the overall course grade.
 
 If we must switch to remote instruction, many of the course requirements and policies will have to be adapted. Details will be posted at the appropriate time on the course Blackboard site (which you will be required to check daily). If we have switch modes of instruction, I will change to a hybrid instruction model, where classes may be livestreamed, and all students will be required to attend class synchronously or in-person at the regularly scheduled times. Students must meet [GVSU’s minimum technology requirements](https://www.gvsu.edu/online/technology-requirements-for-onlinehybrid-courses-8.htm) for online/hybrid courses.
 
+#### Face Covering Policy
+
+This class will follow the guidance of the university regarding face covering usage and definitions. In particular, if the [University’s alert level](https://www.gvsu.edu/lakerstogether/alert-levels-and-indicators-39.htm) rises to 1 or higher, they will be required unless an official exception is granted to a student.
+
 ### University Course Policies
 
 This course is subject to the GVSU policies listed at
@@ -137,11 +141,6 @@ This course is subject to the GVSU policies listed at
   with the material.
   - **Here is a strategy to be successful in this course and avoid academic dishonesty:** If you are struggling with a lab or activity, email me or come by during office hours or see me after class. If you didn’t have time to ask questions early and an assignment is due in an hour or two, rather than risk violating the academic honesty policy, just send me an email and ask for a grace day extension. Then you can have more time to think about the problem and talk to me about it.
 - Note: You will continue to have access to the assignments after they are due. Any work done on an assignment after the posted due date and time will not be counted for credit unless you use a grace day. This is done so that you can go back and review your work.
-- If health issues for you or someone you care for,
-  longer term internet issues, childcare issues, etc.
-  arise, please post a private Piazza note to the
-  instructor ASAP so we can work together to
-  identify a solution.
 - There may be a need for changes to happen midsemester, so this
   information is tentative and the instructor reserves the right to modify
   course policies, the course
@@ -298,7 +297,7 @@ For this course:
   violation and will result in a grade penalty (up to failure in the course) as
   well as be reported to the Office of Student Conduct and Conflict Resolution.
 
-#### FAQs:
+#### Academic Integrity FAQs:
 
 - Can I seek help through sites like upwork? _No, this would generally be
   considered an academic integrity violation_
@@ -352,6 +351,14 @@ will result in disciplinary action, up to failure in the course, and will be
 reported to the Office of Student Conduct and Conflict Resolution.
 -->
 
-## Special Assistance
+## Special Needs?
 
-If there is any student in this class who has special needs because of learning, physical or other disability, please contact me and Disability Support Services (DSS) at 616.331.2490.
+If you need accommodations due to a learning, physical, or other disability you must present a memo to me from Disability Support Resources (DSR), indicating the existence of a disability and the suggested reasonable accommodations. If you have not already done so, please contact the Disability Support Resources office (215 CON) by calling 331-2490 or email to dsrgvsu@gvsu.edu. Please note that I cannot provide accommodations based upon disability until I have received a copy of the DSR issued memo. All discussions will remain confidential. Furthermore, if you have a physical disability and think you will need assistance evacuating this classroom and/or building in an emergency situation, please make me aware so I can develop a plan to assist you.
+
+## In Case of Emergency
+
+Fire: Immediately proceed to the nearest exit during a fire alarm. Do not use elevators. More information is available on the University’s [Emergency website](http://www.gvsu.edu/emergency).
+
+## Finally… Life Happens! and I Care About You
+
+Your health and your family's health should be your priority. If you are dealing with illness, sick family members, travel difficulties, a bad internet connection, increased anxiety, childcare challenges, or any other issues, please reach out and we will figure out accommodations. I care about you, want you to be successful, and I can flex (within reason) on the requirements for this course but only if I know something is going on in your life.
