@@ -9,11 +9,24 @@ Office Hours (in person unless requested otherwise):
 - Location: A-2-108 MAK
   - Mondays & Wednesdays Noon - 12:50pm
   - Tuesdays & Thursdays 11:15am - Noon
+- Additional Office Hours by Appointment
+  - Send me an email and we can find a common time to meet. I’m available virtually too!
 
 Contact:
 
 - [Piazza](piazza.com/gvsu/fall2023/cis161/home) **preferred**
 - [dickinsw@gvsu.edu](mailto:dickinsw@gvsu.edu?subject=[CIS161]) ^^^in almost all cases use Piazza
+
+## Course Introduction
+
+Programming is a craft, learning to think like a programmer isn’t something you pick up overnight. As in skills like drawing, writing, painting, woodworking, knitting or playing an instrument, dedicating time consistently to practice is an effective way to build aptitude. This course is structured to encourage regular practice through lecture, coding activities, and weekly readings.
+
+## Why Take This Course?
+
+• This course will help strengthen your problem-solving skills.
+• Logical reasoning, problem solving and the ability to create new technologies are vital 21st century skills.
+• Computing skills can be acquired with practice and study.
+• Computing skills apply across disciplines.
 
 ## Course Description, Location & Times
 
