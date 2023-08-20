@@ -15,7 +15,7 @@ Contact:
 - [Piazza](piazza.com/gvsu/fall2023/cis161/home) **preferred**
 - [dickinsw@gvsu.edu](mailto:dickinsw@gvsu.edu?subject=[CIS161]) ^^^in almost all cases use Piazza
 
-## Course Description, Times, & Location
+## Course Description, Location & Times
 
 CIS 161: Computational science is the field of study concerned with using computers to analyze, model, simulate, and solve problems in various mathematical and scientific disciplines.
 
