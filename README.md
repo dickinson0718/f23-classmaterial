@@ -11,11 +11,12 @@
 ## Need Help?
 
 If you have questions, please ask! Office hours are open time for students
-to get help -- please join if you have questions. My office hours are\
+to get help -- please join if you have questions. My office hours are
 
 - Monday & Wednesday 12-12:50PM
 - Tuesday & Thursday 11:15-12:00PM
-  in A-2-108 MAK.
+
+in A-2-108 MAK.
 
 ### Course Schedule
 
