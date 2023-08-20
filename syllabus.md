@@ -23,10 +23,10 @@ Programming is a craft, learning to think like a programmer isn’t something yo
 
 ## Why Take This Course?
 
-• This course will help strengthen your problem-solving skills.
-• Logical reasoning, problem solving and the ability to create new technologies are vital 21st century skills.
-• Computing skills can be acquired with practice and study.
-• Computing skills apply across disciplines.
+- This course will help strengthen your problem-solving skills.
+- Logical reasoning, problem solving and the ability to create new technologies are vital 21st century skills.
+- Computing skills can be acquired with practice and study.
+- Computing skills apply across disciplines.
 
 ## Course Description, Location & Times
 
