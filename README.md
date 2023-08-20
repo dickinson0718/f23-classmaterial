@@ -16,7 +16,7 @@ to get help -- please join if you have questions. My office hours are Monday & W
 ### Course Schedule
 
 This table outlines the entire course schedule. Lecture videos cover the topics and are beneficial to your understanding of the material.
-<---Minilab links will be added prior to the start of class.---> The dates in this
+<--Minilab links will be added prior to the start of class.--> The dates in this
 schedule are tentative and subject to change.
 
 | Week    | Date          | Topics                                                                                                                      | Special Notes                                                                                                            | activities                                                                                                                                                                                           |
