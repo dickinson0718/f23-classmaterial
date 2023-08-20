@@ -20,14 +20,12 @@ in A-2-108 MAK.
 
 ### Course Schedule
 
-This table outlines the entire course schedule. Lecture videos cover the topics and are beneficial to your understanding of the material.
-
+- This table outlines the entire course schedule. The dates in this schedule are tentative and subject to change.
+- Lecture videos and notebooks cover the topics and are beneficial to your understanding of the material. Watching and processing them will help with the activities, lab, and the final project.
+- If you click on a link before the content is available you will be a Accessed Denied error. If you do not think you should have gotten this error when clicking, please let your instructor know.
 <!---
 Minilab links will be added prior to the start of class.)
 --->
-
-The dates in this
-schedule are tentative and subject to change.
 
 | Week    | Date          | Topics                                                                                                                      | Special Notes                                                                                                            | activities                                                                                                                                                                                           |
 | ------- | ------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
