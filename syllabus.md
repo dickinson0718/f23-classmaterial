@@ -117,14 +117,6 @@ be capped at 1% of the overall course grade.
 
 ## Course Policies
 
-### Pivot To Remote Instruction
-
-If we must switch to remote instruction, many of the course requirements and policies will have to be adapted. Details will be posted at the appropriate time on the course Blackboard site (which you will be required to check daily). If we have switch modes of instruction, I will change to a hybrid instruction model, where classes may be livestreamed, and all students will be required to attend class synchronously or in-person at the regularly scheduled times. Students must meet [GVSU’s minimum technology requirements](https://www.gvsu.edu/online/technology-requirements-for-onlinehybrid-courses-8.htm) for online/hybrid courses.
-
-#### Face Covering Policy
-
-This class will follow the guidance of the university regarding face covering usage and definitions. In particular, if the [University’s alert level](https://www.gvsu.edu/lakerstogether/alert-levels-and-indicators-39.htm) rises to 1 or higher, they will be required unless an official exception is granted to a student.
-
 ### University Course Policies
 
 This course is subject to the GVSU policies listed at
@@ -350,6 +342,14 @@ your desire to invoke the "regret clause" and I detect academic misconduct, it
 will result in disciplinary action, up to failure in the course, and will be
 reported to the Office of Student Conduct and Conflict Resolution.
 -->
+
+### Pivot To Remote Instruction
+
+If we must switch to remote instruction, many of the course requirements and policies will have to be adapted. Details will be posted at the appropriate time on the course Blackboard site (which you will be required to check daily). If we have switch modes of instruction, I will change to a hybrid instruction model, where classes may be livestreamed, and all students will be required to attend class synchronously or in-person at the regularly scheduled times. Students must meet [GVSU’s minimum technology requirements](https://www.gvsu.edu/online/technology-requirements-for-onlinehybrid-courses-8.htm) for online/hybrid courses.
+
+### Face Covering Policy
+
+This class will follow the guidance of the university regarding face covering usage and definitions. In particular, if the [University’s alert level](https://www.gvsu.edu/lakerstogether/alert-levels-and-indicators-39.htm) rises to 1 or higher, they will be required unless an official exception is granted to a student.
 
 ## Special Needs?
 
