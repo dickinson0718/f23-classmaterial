@@ -135,7 +135,7 @@ This course is subject to the GVSU policies listed at
   used to turn in a activity or lab -- a grace day. Requests must be made _prior_ to the original due date. 24 hours means 24 hours from the original due date. Late assignments will not be accepted, except in very extenuating circumstances (e.g. extremely severe illness, etc.). This is done
   as the goal of these is to make sure you are keeping up
   with the material.
-  - Here is a strategy to be successful in this course. If you are struggling with a lab or activity, email me or come by during office hours or see me after class. If you didn’t have time to ask questions early and an assignment is due in an hour or two, rather than risk violating the academic honesty policy, just send me an email and ask for a grace day extension. Then you can have more time to think about the problem and talk to me about it.
+  - _Here is a strategy to be successful in this course:_ If you are struggling with a lab or activity, email me or come by during office hours or see me after class. If you didn’t have time to ask questions early and an assignment is due in an hour or two, rather than risk violating the academic honesty policy, just send me an email and ask for a grace day extension. Then you can have more time to think about the problem and talk to me about it.
 - Note: You will continue to have access to the assignments after they are due. Any work done on an assignment after the posted due date and time will not be counted for credit unless you use a grace day. This is done so that you can go back and review your work.
 - If health issues for you or someone you care for,
   longer term internet issues, childcare issues, etc.
