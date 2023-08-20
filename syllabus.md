@@ -131,12 +131,12 @@ This course is subject to the GVSU policies listed at
 - All activities and assignments must be completed on and submitted in
   [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/).
   Emailed code will not be accepted.
-- Late assignments will not be accepted, except in very extenuating
-  circumstances (e.g. extremely severe illness, etc.). This is done
+- You get _8_ grace days that you can use during the semester. Grace days can be
+  used to turn in a activity or lab -- a grace day. Requests must be made _prior_ to the original due date. 24 hours means 24 hours from the original due date. Late assignments will not be accepted, except in very extenuating circumstances (e.g. extremely severe illness, etc.). This is done
   as the goal of these is to make sure you are keeping up
   with the material.
-  Any work done on an assignment
-  after the posted due date and time will not be counted for credit.
+  - Here is a strategy to be successful in this course. If you are struggling with a lab or activity, email me or come by during office hours or see me after class. If you didn’t have time to ask questions early and an assignment is due in an hour or two, rather than risk violating the academic honesty policy, just send me an email and ask for a grace day extension. Then you can have more time to think about the problem and talk to me about it.
+- Note: You will continue to have access to the assignments after they are due. Any work done on an assignment after the posted due date and time will not be counted for credit unless you use a grace day. This is done so that you can go back and review your work.
 - If health issues for you or someone you care for,
   longer term internet issues, childcare issues, etc.
   arise, please post a private Piazza note to the
@@ -316,6 +316,7 @@ For this course:
   this would be considered an academic integrity violation. Fundamentally the
   work you submit must be your own_.
 
+<!---
 #### Regret Policy
 
 I recognize that courses can be stressful and occasional lapses of judgement
@@ -349,6 +350,7 @@ If the 48 hours have passed and you have not informed me of
 your desire to invoke the "regret clause" and I detect academic misconduct, it
 will result in disciplinary action, up to failure in the course, and will be
 reported to the Office of Student Conduct and Conflict Resolution.
+-->
 
 ## Special Assistance
 
