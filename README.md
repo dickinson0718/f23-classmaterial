@@ -6,7 +6,7 @@
 - [Piazza](https://piazza.com/gvsu/fall2023/cis161) -- also [FAQ about Piazza](piazza-faq.md)
 - [PrairieLearn](https://us.prairielearn.com/pl/course_instance/137200) - log-in
   using "Google" and use your GVSU gmail account
-- [Python for Applied Computing Github](https://github.com/dickinson0718/python-for-applied-computing) -- The online "textbook"
+- [Python for Applied Computing Github](https://github.com/dickinson0718/python-for-applied-computing) -- The online "textbook". Note: All videos and notebooks of the book can be reached directly from PrairieLearn.
 
 ## Need Help?
 

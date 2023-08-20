@@ -45,7 +45,7 @@ No official textbook - the Jupyter notebooks are meant to replace a traditional 
 If you prefer to run the Jupyter notebooks in the videos on Google CoLab,
 the "Run Online" links posted on
 [Python for Applied Computing Github](https://github.com/eecarrier/python-for-applied-computing)
-will open them automatically in CoLab.
+will open them automatically in CoLab. Note: All videos and notebooks of the book can be reached directly from our course instance of PrairieLearn.
 
 Completely Optional (a decent book if you want to a separate resource to follow): _Introduction to Computation and Programming Using Python_ by Guttag (2017)
 
@@ -105,12 +105,10 @@ This course is subject to the GVSU policies listed at
 
 ### General Course Policies
 
-- All activities must be completed on
+- All activities and assignments must be completed on and submitted in
   [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/).
   Emailed code will not be accepted.
-- All assignments should be turned in on PrairieLearn.
-- Late assignments
-  will not be accepted, except in very extenuating
+- Late assignments will not be accepted, except in very extenuating
   circumstances (e.g. extremely severe illness, etc.). This is done
   as the goal of these is to make sure you are keeping up
   with the material.
@@ -122,8 +120,8 @@ This course is subject to the GVSU policies listed at
   instructor ASAP so we can work together to
   identify a solution.
 - There may be a need for changes to happen midsemester, so this
-  information is tentative and the
-  instructor reserves the right to modify course policies, the course
+  information is tentative and the instructor reserves the right to modify
+  course policies, the course
   calendar, due dates, number of assignments, etc.
 
 ### Flipped Classroom
@@ -139,6 +137,9 @@ comes time to apply the material. So, rather than using class time for lectures,
 class time will be devoted to applying the material so that students can get help
 when they need it.
 
+This style of classroom will also allow students with various coding backgrounds to move
+through the material at (slightly) different rates.
+
 ### Activities (PrairieLearn)
 
 [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/)
@@ -152,7 +153,7 @@ or not you got it correct, and resubmit
 prior to the due date/time to improve your grade
 without penalty as
 many times as you wish. Unless otherwise stated,
-all activities are due at the end of the week on Friday at 11:59pm.
+all activities are due at the end of the week on Sunday at 11:59pm.
 
 You should keep trying these activities until you are able
 to get them correct. My goal is that
@@ -166,7 +167,7 @@ Friday will be dedicated to completing
 labs. The lab task will be available on PrairieLearn at the beginning
 of the lab class period. Other lab policies:
 
-- Labs must be completed with your assigned partner.
+- Labs _must_ be completed with your assigned partner.
   Partners will be assigned in the first week based on
   the results of a survey.
 - Most labs are designed to be finished during the dedicated
@@ -183,7 +184,7 @@ of the lab class period. Other lab policies:
 ### Exams (PrairieLearn)
 
 There will be multiple midterm exams (tentatively week 5 and week 11)
-that will be taken on [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/)) and consist of both
+that will be taken on [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/) and consist of both
 non-coding (multiple choice, fill-in-the-blank, etc.) questions
 and one or more coding questions.
 
