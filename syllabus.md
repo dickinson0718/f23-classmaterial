@@ -72,6 +72,10 @@ Completely Optional (a decent book if you want to a separate resource to follow)
    - Understand the field of study concerned with using computers to analyze, mathematically model, simulate, and solve problems in various scientific disciplines
    - Conduct abstract modeling of complex scientific problems
 
+## Where to Find Help!
+
+Learning to program requires patience, persistence and will certainly be challenging. Know that I am willing to offer advice and guidance throughout the course. Please ask questions before, during and after class as well as visit me during office hours. I am happy to meet at other times as well. You can contact the [GVSU tutoring center](http://www.gvsu.edu/tc/) to request tutoring for this course.
+
 ## Grade Breakdown
 
 | Activity       | Percentage | Pairs or Individual?                                   |
@@ -112,6 +116,12 @@ exact formula is not yet determined, but the extra credit will
 be capped at 1% of the overall course grade.
 
 ## Course Policies
+
+### Pivot To Remote Instruction
+
+If we must switch to remote instruction, many of the course requirements and policies will have to be adapted. Details will be posted at the appropriate time on the course Blackboard site (which you will be required to check daily). If we have switch modes of instruction, I will change to a hybrid instruction model, where classes may be livestreamed, and all students will be required to attend class synchronously or in-person at the regularly scheduled times. Students must meet [GVSU’s minimum technology requirements](https://www.gvsu.edu/online/technology-requirements-for-onlinehybrid-courses-8.htm) for online/hybrid courses.
+
+### University Course Policies
 
 This course is subject to the GVSU policies listed at
 [http://www.gvsu.edu/coursepolicies/](http://www.gvsu.edu/coursepolicies/).
