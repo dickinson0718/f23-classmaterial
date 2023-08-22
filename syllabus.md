@@ -6,11 +6,12 @@ Instructor: William Dickinson (aka Dr. D)
 
 Office Hours (in person unless requested otherwise):
 
-- Location: A-2-108 MAK
-  - Mondays & Wednesdays Noon - 12:50pm
-  - Tuesdays & Thursdays 11:15am - Noon
-- Additional Office Hours by Appointment
-  - Send me an email and we can find a common time to meet. I’m available virtually too!
+- Monday & Wednesday 12-12:50 PM In A-2-108 MAK
+- Tuesday 11:30-12:20 PM in CIS Success Center (MAK C-2-205)
+- Thursday 11:15-12:00PM in A-2-108 MAK
+- Additional Office Hours by Appointment. Send me an email and we can find a common time to meet. I’m available virtually too!
+
+Office hours are an occasion for students to meet individually or in small groups with the course instructor. Students can stop by or set up a specific meeting time. These meetings are an excellent opportunity for students to ask questions about projects, assignments, graduate school, research opportunities, or careers in the field. Virtual Office hours are available by appointment only.
 
 Contact:
 
