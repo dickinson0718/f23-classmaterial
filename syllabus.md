@@ -4,8 +4,6 @@
 
 Instructor: William Dickinson (aka Dr. D)
 
-Email: dickinsw@gvsu.edu
-
 Office: A-2-108 MAK
 
 Office Hours (in person unless requested otherwise):
@@ -20,7 +18,7 @@ Office hours are an occasion for students to meet individually or in small group
 Contact:
 
 - [Piazza](piazza.com/gvsu/fall2023/cis161/home) **preferred**
-- [dickinsw@gvsu.edu](mailto:dickinsw@gvsu.edu?subject=[CIS161]) ^^^in almost all cases use Piazza
+- Email: [dickinsw@gvsu.edu](mailto:dickinsw@gvsu.edu?subject=[CIS161]) ^^^in almost all cases use Piazza
 
 ## Course Introduction
 
