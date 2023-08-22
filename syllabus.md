@@ -4,6 +4,10 @@
 
 Instructor: William Dickinson (aka Dr. D)
 
+Email: dickinsw@gvsu.edu
+
+Office: A-2-108 MAK
+
 Office Hours (in person unless requested otherwise):
 
 - Monday & Wednesday 12-12:50 PM In A-2-108 MAK
