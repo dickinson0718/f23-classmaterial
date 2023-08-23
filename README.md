@@ -16,6 +16,7 @@ to get help -- please join if you have questions. My office hours are
 - Monday & Wednesday 12-12:50 PM In A-2-108 MAK
 - Tuesday 11:30-12:20 PM in CIS Success Center (MAK C-2-205)
 - Thursday 11:15-12:00PM in A-2-108 MAK
+- Additional Office Hours by Appointment. Send me an email and we can find a common time to meet. I’m available virtually too!
 
 ### Course Schedule
 

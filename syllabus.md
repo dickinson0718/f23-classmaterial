@@ -19,6 +19,7 @@ Contact:
 
 - [Piazza](piazza.com/gvsu/fall2023/cis161/home) **preferred**
 - Email: [dickinsw@gvsu.edu](mailto:dickinsw@gvsu.edu?subject=[CIS161]) ^^^in almost all cases use Piazza
+- Phone: 616-331-3745 (Not textable)
 
 ## Course Introduction
 
@@ -77,15 +78,15 @@ Completely Optional (a decent book if you want to a separate resource to follow)
 
 ## Where to Find Help!
 
-Learning to program requires patience, persistence and will certainly be challenging. Know that I am willing to offer advice and guidance throughout the course. Please ask questions before, during and after class as well as visit me during office hours. I am happy to meet at other times as well. You can contact the [GVSU tutoring center](http://www.gvsu.edu/tc/) to request tutoring for this course.
+Learning to program requires patience, persistence and will certainly be challenging. Know that I am willing to offer advice and guidance throughout the course. Please ask questions before, during and after class as well as visit me during office hours. I am happy to meet at other times as well. You can contact the [GVSU tutoring center](http://www.gvsu.edu/tc/) to request tutoring for this course. There are also regular drop in hours in the [CIS Student Success Center](https://www.gvsu.edu/computing/student-success-center-13.htm).
 
 ## Grade Breakdown
 
 | Activity       | Percentage | Pairs or Individual?                                   |
 | -------------- | ---------- | ------------------------------------------------------ |
-| Labs           | 20%        | Pairs                                                  |
-| Activities     | 20%        | Individual, but okay to discuss in general with others |
-| Course Project | 35%        | Your choice                                            |
+| Labs           | 25%        | Pairs                                                  |
+| Activities     | 25%        | Individual, but okay to discuss in general with others |
+| Course Project | 25%        | Your choice                                            |
 | Exams          | 25%        | Individual                                             |
 
 ## Grading Scale
