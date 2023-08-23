@@ -138,6 +138,7 @@ This course is subject to the GVSU policies listed at
   with the material.
   - **Here is a strategy to be successful in this course and avoid academic dishonesty:** If you are struggling with a lab or activity, email me or come by during office hours or see me after class. If you didn’t have time to ask questions early and an assignment is due in an hour or two, rather than risk violating the academic honesty policy, just send me an email and ask for a grace day extension. Then you can have more time to think about the problem and talk to me about it.
 - Note: You will continue to have access to the assignments after they are due. Any work done on an assignment after the posted due date and time will not be counted for credit unless you are using a grace day. This is done so that you can go back and review your work.
+- All labs and activities assigned (i.e. anything assigned in this class) must be completed using the tools (commands, methods, syntax, etc.) outlined and demonstrated in class or in PrairieLearn from sections that are not after the place assigned in the class. If you don’t follow this direction the grade is zero.
 - There may be a need for changes to happen midsemester, so this
   information is tentative and the instructor reserves the right to modify
   course policies, the course
