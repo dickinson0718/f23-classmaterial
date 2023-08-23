@@ -128,6 +128,7 @@ This course is subject to the GVSU policies listed at
 
 ### General Course Policies
 
+- If you observe a holiday listed in GVSU’s [interfaith calendar](https://www.gvsu.edu/campusinterfaith/interfaith-calendar-17.htm) and a due date from this course conflicts, please let me know and we can figure out another mutually agreeable due date.
 - All activities and assignments must be completed on and submitted in
   [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/).
   Emailed code will not be accepted.
