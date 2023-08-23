@@ -360,9 +360,17 @@ This class will follow the guidance of the university regarding face covering us
 
 If you need accommodations due to a learning, physical, or other disability you must present a memo to me from Disability Support Resources (DSR), indicating the existence of a disability and the suggested reasonable accommodations. If you have not already done so, please contact the Disability Support Resources office (215 CON) by calling 331-2490 or email to dsrgvsu@gvsu.edu. Please note that I cannot provide accommodations based upon disability until I have received a copy of the DSR issued memo. All discussions will remain confidential. Furthermore, if you have a physical disability and think you will need assistance evacuating this classroom and/or building in an emergency situation, please make me aware so I can develop a plan to assist you.
 
-## In Case of Emergency
+## Classroom and Campus Safety:
 
-Fire: Immediately proceed to the nearest exit during a fire alarm. Do not use elevators. More information is available on the University’s [Emergency website](http://www.gvsu.edu/emergency).
+I consider classroom and campus safety our shared responsibility. Please familiarize yourself with the classroom emergency placard, which contains important information that could prove useful should an emergency arise. Emergency situations could include a fire alarm, tornado warning, medical emergency, or hostile intruder, and our response might consist of evacuating MAK Hall in an orderly manner, moving as a group to a different location in the building, rendering assistance a class member, or staying put and locking the classroom door. In all cases, I will provide clear instructions as to what you should do. Please make sure to have your primary mobile number listed in Banner so that you will automatically receive any campus alerts. Should you receive an emergency notification in class, notify me immediately.
+
+Additional information about campus safety can be found at the following sites:
+
+- [Directions for enabling additional contact means to the campus alert system](https://www.gvsu.edu/gvsualert)
+- [List of campus tornado safety locations](https://www.gvsu.edu/emergency/tornado-safety-location-2.htm)
+- [Medical emergencies and campus AED locations](https://www.gvsu.edu/emergency/medical-emergency-15.htm)
+- [Active shooter response](https://www.gvsu.edu/dps/active-shooter-response-85.htm)
+- Fire: Immediately proceed to the nearest exit during a fire alarm. Do not use elevators. More information is available on the University’s [Emergency website](http://www.gvsu.edu/emergency).
 
 ## Finally… Life Happens! and I Care About You
 
