@@ -13,10 +13,9 @@
 If you have questions, please ask! Office hours are open time for students
 to get help -- please join if you have questions. My office hours are
 
-- Monday & Wednesday 12-12:50PM
-- Tuesday & Thursday 11:15-12:00PM
-
-in A-2-108 MAK.
+- Monday & Wednesday 12-12:50 PM In A-2-108 MAK
+- Tuesday 11:30-12:20 PM in CIS Success Center (MAK C-2-205)
+- Thursday 11:15-12:00PM in A-2-108 MAK
 
 ### Course Schedule
 
