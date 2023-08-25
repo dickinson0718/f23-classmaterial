@@ -85,81 +85,10 @@ Learning to program requires patience, persistence and will certainly be challen
 | Activity       | Percentage | Pairs or Individual?                                   |
 | -------------- | ---------- | ------------------------------------------------------ |
 | Videos         | 5%         | Individual                                             |
-| Labs           | 25%        | Pairs                                                  |
 | Activities     | 25%        | Individual, but okay to discuss in general with others |
-| Course Project | 30%        | Your choice                                            |
+| Labs           | 25%        | Pairs                                                  |
 | Exams          | 25%        | Individual                                             |
-
-## Grading Scale
-
-Because this course has a mix of undergraduate and graduate students,
-there are two different grading scales.
-
-### Undergraduate Students
-
-| % Range   | Grade | % Range  | Grade | % Range  | Grade |
-| --------- | ----- | -------- | ----- | -------- | ----- |
-| [93, 100] | A     | [90, 93) | A-    |          |       |
-| [87, 90)  | B+    | [83, 87) | B     | [80, 83) | B-    |
-| [77, 80)  | C+    | [73, 77) | C     | [70, 73) | C-    |
-| [67, 70)  | D+    | [63, 67) | D     | [0, 63)  | F     |
-
-### Graduate Students
-
-| % Range   | Grade | % Range  | Grade | % Range  | Grade |
-| --------- | ----- | -------- | ----- | -------- | ----- |
-| [95, 100] | A     | [93, 95) | A-    |          |       |
-| [90, 93)  | B+    | [87, 90) | B     | [83, 87) | B-    |
-| [81, 83)  | C+    | [79, 81) | C     | [77, 79) | C-    |
-| [76, 77)  | D+    | [75, 76) | D     | [0, 75)  | F     |
-
-## Extra Credit
-
-Extra credit will be awarded for good questions (as marked by the
-instructor) and good answers (as endorsed by the instructor). The
-exact formula is not yet determined, but the extra credit will
-be capped at 1% of the overall course grade.
-
-## Course Policies
-
-### University Course Policies
-
-This course is subject to the GVSU policies listed at
-[http://www.gvsu.edu/coursepolicies/](http://www.gvsu.edu/coursepolicies/).
-
-### General Course Policies
-
-- If you observe a holiday listed in GVSU’s [interfaith calendar](https://www.gvsu.edu/campusinterfaith/interfaith-calendar-17.htm) and a due date from this course conflicts, please let me know and we can figure out another mutually agreeable due date.
-- All activities and assignments must be completed on and submitted in
-  [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/).
-  Emailed code will not be accepted.
-- You get _8_ grace days that you can use during the semester. Grace days can be
-  used to turn in a activity or lab -- a grace day. Requests must be made _prior_ to the original due date. 24 hours means 24 hours from the original due date. Late assignments will not be accepted, except in very extenuating circumstances (e.g. extremely severe illness, etc.). This is done
-  as the goal of these is to make sure you are keeping up
-  with the material.
-  - **Here is a strategy to be successful in this course and avoid academic dishonesty:** If you are struggling with a lab or activity, email me or come by during office hours or see me after class. If you didn’t have time to ask questions early and an assignment is due in an hour or two, rather than risk violating the academic honesty policy, just send me an email and ask for a grace day extension. Then you can have more time to think about the problem and talk to me about it.
-- Note: You will continue to have access to the assignments after they are due. Any work done on an assignment after the posted due date and time will not be counted for credit unless you are using a grace day. This is done so that you can go back and review your work.
-- All labs and activities assigned (i.e. anything assigned in this class) must be completed using the tools (commands, methods, syntax, etc.) outlined and demonstrated in class or in PrairieLearn from sections that are not after the place assigned in the class. If you don’t follow this direction the grade is zero.
-- There may be a need for changes to happen midsemester, so this
-  information is tentative and the instructor reserves the right to modify
-  course policies, the course
-  calendar, due dates, number of assignments, etc.
-
-### Flipped Classroom
-
-This course will be run as a flipped classroom. You will be responsible
-for watching lecture videos before coming to class. In-class time will be used
-for discussion over topics covered in the videos and completing activities,
-and working on labs.
-
-The goal of the flipped classroom is so that you can get help when you need it.
-With coding, often student's do not realize their misunderstandings until it
-comes time to apply the material. So, rather than using class time for lectures,
-class time will be devoted to applying the material so that students can get help
-when they need it.
-
-This style of classroom will also allow students with various coding backgrounds to move
-through the material at (slightly) different rates.
+| Course Project | 30%        | Your choice                                            |
 
 ### Videos (PrairieLearn)
 
@@ -265,6 +194,77 @@ project. Showing me what you can do is more important that creating a flashy pro
 I encourage you to push your boundaries, but projects that are clearly well-beyond
 what is reasonable given your other work in the course are frequently an indication
 of academic misconduct.
+
+## Grading Scale
+
+Because this course has a mix of undergraduate and graduate students,
+there are two different grading scales.
+
+### Undergraduate Students
+
+| % Range   | Grade | % Range  | Grade | % Range  | Grade |
+| --------- | ----- | -------- | ----- | -------- | ----- |
+| [93, 100] | A     | [90, 93) | A-    |          |       |
+| [87, 90)  | B+    | [83, 87) | B     | [80, 83) | B-    |
+| [77, 80)  | C+    | [73, 77) | C     | [70, 73) | C-    |
+| [67, 70)  | D+    | [63, 67) | D     | [0, 63)  | F     |
+
+### Graduate Students
+
+| % Range   | Grade | % Range  | Grade | % Range  | Grade |
+| --------- | ----- | -------- | ----- | -------- | ----- |
+| [95, 100] | A     | [93, 95) | A-    |          |       |
+| [90, 93)  | B+    | [87, 90) | B     | [83, 87) | B-    |
+| [81, 83)  | C+    | [79, 81) | C     | [77, 79) | C-    |
+| [76, 77)  | D+    | [75, 76) | D     | [0, 75)  | F     |
+
+## Extra Credit
+
+Extra credit will be awarded for good questions (as marked by the
+instructor) and good answers (as endorsed by the instructor). The
+exact formula is not yet determined, but the extra credit will
+be capped at 1% of the overall course grade.
+
+## Course Policies
+
+### University Course Policies
+
+This course is subject to the GVSU policies listed at
+[http://www.gvsu.edu/coursepolicies/](http://www.gvsu.edu/coursepolicies/).
+
+### General Course Policies
+
+- If you observe a holiday listed in GVSU’s [interfaith calendar](https://www.gvsu.edu/campusinterfaith/interfaith-calendar-17.htm) and a due date from this course conflicts, please let me know and we can figure out another mutually agreeable due date.
+- All activities and assignments must be completed on and submitted in
+  [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/).
+  Emailed code will not be accepted.
+- You get _8_ grace days that you can use during the semester. Grace days can be
+  used to turn in a activity or lab -- a grace day. Requests must be made _prior_ to the original due date. 24 hours means 24 hours from the original due date. Late assignments will not be accepted, except in very extenuating circumstances (e.g. extremely severe illness, etc.). This is done
+  as the goal of these is to make sure you are keeping up
+  with the material.
+  - **Here is a strategy to be successful in this course and avoid academic dishonesty:** If you are struggling with a lab or activity, email me or come by during office hours or see me after class. If you didn’t have time to ask questions early and an assignment is due in an hour or two, rather than risk violating the academic honesty policy, just send me an email and ask for a grace day extension. Then you can have more time to think about the problem and talk to me about it.
+- Note: You will continue to have access to the assignments after they are due. Any work done on an assignment after the posted due date and time will not be counted for credit unless you are using a grace day. This is done so that you can go back and review your work.
+- All labs and activities assigned (i.e. anything assigned in this class) must be completed using the tools (commands, methods, syntax, etc.) outlined and demonstrated in class or in PrairieLearn from sections that are not after the place assigned in the class. If you don’t follow this direction the grade is zero.
+- There may be a need for changes to happen midsemester, so this
+  information is tentative and the instructor reserves the right to modify
+  course policies, the course
+  calendar, due dates, number of assignments, etc.
+
+### Flipped Classroom
+
+This course will be run as a flipped classroom. You will be responsible
+for watching lecture videos before coming to class. In-class time will be used
+for discussion over topics covered in the videos and completing activities,
+and working on labs.
+
+The goal of the flipped classroom is so that you can get help when you need it.
+With coding, often student's do not realize their misunderstandings until it
+comes time to apply the material. So, rather than using class time for lectures,
+class time will be devoted to applying the material so that students can get help
+when they need it.
+
+This style of classroom will also allow students with various coding backgrounds to move
+through the material at (slightly) different rates.
 
 ### Academic Honesty Policies
 
