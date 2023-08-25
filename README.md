@@ -2,6 +2,7 @@
 
 ## Helpful Links
 
+- [Initial Survey](https://forms.gle/RYqTGkE5JYeoQVPy5) Complete this before our first class.
 - [Syllabus](syllabus.md)
 - [Piazza](https://piazza.com/gvsu/fall2023/cis161) -- also [FAQ about Piazza](piazza-faq.md)
 - [PrairieLearn](https://us.prairielearn.com/pl/course_instance/137200) - log-in
