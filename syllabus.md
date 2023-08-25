@@ -84,9 +84,10 @@ Learning to program requires patience, persistence and will certainly be challen
 
 | Activity       | Percentage | Pairs or Individual?                                   |
 | -------------- | ---------- | ------------------------------------------------------ |
+| Videos         | 5%         | Individual                                             |
 | Labs           | 25%        | Pairs                                                  |
 | Activities     | 25%        | Individual, but okay to discuss in general with others |
-| Course Project | 25%        | Your choice                                            |
+| Course Project | 30%        | Your choice                                            |
 | Exams          | 25%        | Individual                                             |
 
 ## Grading Scale
@@ -159,6 +160,14 @@ when they need it.
 
 This style of classroom will also allow students with various coding backgrounds to move
 through the material at (slightly) different rates.
+
+### Videos (PrairieLearn)
+
+Each week there will be a series of lecture videos and accompanying (Jupyter)
+notebooks which cover the
+material for that week. You are responsible for watching the videos and
+**executing every** cell in each notebook.
+The notebooks must be submitted and graded. The percentage of notebooks submitted and graded (for completion and not correctness) will determine this part of your grade.
 
 ### Activities (PrairieLearn)
 
