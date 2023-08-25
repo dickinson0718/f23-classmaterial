@@ -66,6 +66,22 @@ will open them automatically in CoLab. Note: All videos and notebooks of the boo
 
 Completely Optional (a decent book if you want to a separate resource to follow): _Introduction to Computation and Programming Using Python_ by Guttag (2017)
 
+## Flipped Classroom
+
+This course will be run as a flipped classroom. You will be responsible
+for watching lecture videos before coming to class. In-class time will be used
+for discussion over topics covered in the videos and completing activities,
+and working on labs.
+
+The goal of the flipped classroom is so that you can get help when you need it.
+With coding, often student's do not realize their misunderstandings until it
+comes time to apply the material. So, rather than using class time for lectures,
+class time will be devoted to applying the material so that students can get help
+when they need it.
+
+This style of classroom will also allow students with various coding backgrounds to move
+through the material at (slightly) different rates.
+
 ## Course Objectives
 
 1. Introduce computer science:
@@ -249,22 +265,6 @@ This course is subject to the GVSU policies listed at
   information is tentative and the instructor reserves the right to modify
   course policies, the course
   calendar, due dates, number of assignments, etc.
-
-### Flipped Classroom
-
-This course will be run as a flipped classroom. You will be responsible
-for watching lecture videos before coming to class. In-class time will be used
-for discussion over topics covered in the videos and completing activities,
-and working on labs.
-
-The goal of the flipped classroom is so that you can get help when you need it.
-With coding, often student's do not realize their misunderstandings until it
-comes time to apply the material. So, rather than using class time for lectures,
-class time will be devoted to applying the material so that students can get help
-when they need it.
-
-This style of classroom will also allow students with various coding backgrounds to move
-through the material at (slightly) different rates.
 
 ### Academic Honesty Policies
 
