@@ -44,6 +44,20 @@ Location: B-1-124 MAK
 
 Times: Monday, Wednesday, & Friday 11 - 11:50am
 
+## Course Objectives
+
+1. Introduce computer science:
+   - Learn simple and structured data types, program control structures, and logic.
+   - Perform problem analysis, algorithm design, implementation in a high-level language.
+   - Write programs that employ selection, repetition, and functions and that use libraries of numerical and scientific utilities
+2. Introduce computational science:
+   - Understand the field of study concerned with using computers to analyze, mathematically model, simulate, and solve problems in various scientific disciplines
+   - Conduct abstract modeling of complex scientific problems
+
+## Where to Find Help!
+
+Learning to program requires patience, persistence and will certainly be challenging. Know that I am willing to offer advice and guidance throughout the course. Please ask questions before, during and after class as well as visit me during office hours. I am happy to meet at other times as well. You can contact the [GVSU tutoring center](http://www.gvsu.edu/tc/) to request tutoring for this course. There are also regular drop in hours in the [CIS Student Success Center](https://www.gvsu.edu/computing/student-success-center-13.htm).
+
 ## Piazza
 
 We will be using Piazza for **all class related communication**.
@@ -81,20 +95,6 @@ when they need it.
 
 This style of classroom will also allow students with various coding backgrounds to move
 through the material at (slightly) different rates.
-
-## Course Objectives
-
-1. Introduce computer science:
-   - Learn simple and structured data types, program control structures, and logic.
-   - Perform problem analysis, algorithm design, implementation in a high-level language.
-   - Write programs that employ selection, repetition, and functions and that use libraries of numerical and scientific utilities
-2. Introduce computational science:
-   - Understand the field of study concerned with using computers to analyze, mathematically model, simulate, and solve problems in various scientific disciplines
-   - Conduct abstract modeling of complex scientific problems
-
-## Where to Find Help!
-
-Learning to program requires patience, persistence and will certainly be challenging. Know that I am willing to offer advice and guidance throughout the course. Please ask questions before, during and after class as well as visit me during office hours. I am happy to meet at other times as well. You can contact the [GVSU tutoring center](http://www.gvsu.edu/tc/) to request tutoring for this course. There are also regular drop in hours in the [CIS Student Success Center](https://www.gvsu.edu/computing/student-success-center-13.htm).
 
 ## Grade Breakdown
 
