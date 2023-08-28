@@ -1,5 +1,7 @@
 # Welcome to CIS161 - Computational Science, Fall 2023
 
+Prof. Dickinson (Dr. D)
+
 ## Helpful Links
 
 - [Initial Survey](https://forms.gle/RYqTGkE5JYeoQVPy5) Complete this before our first class.
