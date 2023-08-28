@@ -1,4 +1,4 @@
-# Welcome to CIS 161-01 \n Computational Science, Fall 2023 \n Prof. Dickinson (Dr. D)
+# Welcome to CIS 161-01 Computational Science, Fall 2023 Prof. Dickinson (Dr. D)
 
 ## Helpful Links
 
