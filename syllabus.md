@@ -127,7 +127,7 @@ or not you got it correct, and resubmit
 prior to the due date/time to improve your grade
 without penalty as
 many times as you wish. Unless otherwise stated,
-all activities are due before class on Mondays.
+all activities are due Sunday at 11:59 PM.
 
 You should keep trying these activities until you are able
 to get them correct. My goal is that
