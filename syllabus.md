@@ -112,7 +112,7 @@ Each week there will be a series of lecture videos and accompanying (Jupyter)
 notebooks which cover the
 material for that week. You are responsible for watching the videos and
 **executing every** cell in each notebook.
-The notebooks must be submitted and graded. The percentage of notebooks submitted and graded (for completion and not correctness) will determine this part of your grade.
+The notebooks must be submitted and graded. The percentage of notebooks submitted and graded (for completion and not correctness) will determine this part of your grade. The weeks videos are due before class on Fridays.
 
 ### Activities (PrairieLearn)
 
@@ -127,7 +127,7 @@ or not you got it correct, and resubmit
 prior to the due date/time to improve your grade
 without penalty as
 many times as you wish. Unless otherwise stated,
-all activities are due at the end of the week on Sunday at 11:59pm.
+all activities are due before class on Mondays.
 
 You should keep trying these activities until you are able
 to get them correct. My goal is that
