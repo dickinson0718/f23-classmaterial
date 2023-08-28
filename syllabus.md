@@ -1,5 +1,7 @@
 # CIS 161 Syllabus
 
+## Section 01 MWF 11-11:50 B-1-124
+
 ## Instructor Information
 
 Instructor: William Dickinson (aka Dr. D)
