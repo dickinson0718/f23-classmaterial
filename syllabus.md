@@ -1,6 +1,16 @@
-# CIS 161 Syllabus
+# CIS 161-01 Syllabus
 
-## Section 01 MWF 11-11:50 B-1-124
+## Course Description, Location & Times
+
+CIS 161: Computational Science is the field of study concerned with using computers to analyze, model, simulate, and solve problems in various mathematical and scientific disciplines.
+
+Prerequisite: MTH 201
+
+Credits: 3
+
+Location: B-1-124 MAK
+
+Times: Monday, Wednesday, & Friday 11 - 11:50am
 
 ## Instructor Information
 
@@ -33,18 +43,6 @@ Programming is a craft, learning to think like a programmer isn’t something yo
 - Logical reasoning, problem solving and the ability to create new technologies are vital 21st century skills.
 - Computing skills can be acquired with practice and study.
 - Computing skills apply across disciplines.
-
-## Course Description, Location & Times
-
-CIS 161: Computational science is the field of study concerned with using computers to analyze, model, simulate, and solve problems in various mathematical and scientific disciplines.
-
-Prerequisite: MTH 201
-
-Credits: 3
-
-Location: B-1-124 MAK
-
-Times: Monday, Wednesday, & Friday 11 - 11:50am
 
 ## Course Objectives
 
