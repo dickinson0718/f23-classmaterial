@@ -1,17 +1,5 @@
 # CIS 161-01 Syllabus
 
-## Course Description, Location & Times
-
-CIS 161: Computational Science is the field of study concerned with using computers to analyze, model, simulate, and solve problems in various mathematical and scientific disciplines.
-
-Prerequisite: MTH 201
-
-Credits: 3
-
-Location: B-1-124 MAK
-
-Times: Monday, Wednesday, & Friday 11 - 11:50am
-
 ## Instructor Information
 
 Instructor: William Dickinson (aka Dr. D)
@@ -32,6 +20,18 @@ Contact:
 - [Piazza](piazza.com/gvsu/fall2023/cis161/home) **preferred**
 - Email: [dickinsw@gvsu.edu](mailto:dickinsw@gvsu.edu?subject=[CIS161]) ^^^in almost all cases use Piazza
 - Phone: 616-331-3745 (Not textable)
+
+## Course Description, Location & Times
+
+CIS 161: Computational Science is the field of study concerned with using computers to analyze, model, simulate, and solve problems in various mathematical and scientific disciplines.
+
+Prerequisite: MTH 201
+
+Credits: 3
+
+Location: B-1-124 MAK
+
+Times: Monday, Wednesday, & Friday 11 - 11:50am
 
 ## Course Introduction
 
