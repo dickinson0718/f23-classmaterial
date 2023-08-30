@@ -101,8 +101,8 @@ through the material at (slightly) different rates.
 | Activity       | Percentage | Pairs or Individual?                                   |
 | -------------- | ---------- | ------------------------------------------------------ |
 | Videos         | 5%         | Individual                                             |
-| Activities     | 25%        | Individual, but okay to discuss in general with others |
-| Labs           | 25%        | Pairs                                                  |
+| Activities     | 20%        | Individual, but okay to discuss in general with others |
+| Labs           | 20%        | Pairs                                                  |
 | Exams          | 25%        | Individual                                             |
 | Course Project | 30%        | Your choice                                            |
 
